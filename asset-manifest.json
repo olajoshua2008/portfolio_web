@@ -1,22 +1,19 @@
 {
   "files": {
-    "main.css": "/portfolio_web/static/css/main.838667ff.css",
-    "main.js": "/portfolio_web/static/js/main.2101fedf.js",
+    "main.css": "/portfolio_web/static/css/main.2be6e645.css",
+    "main.js": "/portfolio_web/static/js/main.a73e2f1f.js",
     "static/media/Cv.pdf": "/portfolio_web/static/media/Cv.fa8eba9d94b27b3a2016.pdf",
     "static/media/me.jpg": "/portfolio_web/static/media/me.4e8e22027b2f45846b6f.jpg",
     "static/media/mee.png": "/portfolio_web/static/media/mee.d1dd4250435e6acc7705.png",
-    "static/media/computerroom.jpg": "/portfolio_web/static/media/computerroom.71a7e896d68cf9ddd075.jpg",
-    "static/media/blackbike2.jpg": "/portfolio_web/static/media/blackbike2.648d3ba0aaf5b9a2f474.jpg",
+    "static/media/portfolio2.jpg": "/portfolio_web/static/media/portfolio2.d486f99e61582cbdd598.jpg",
     "static/media/me1.jpg": "/portfolio_web/static/media/me1.ae3c20150b493598b95b.jpg",
-    "static/media/blackbike.jpg": "/portfolio_web/static/media/blackbike.a23b938ac507313153cb.jpg",
-    "static/media/iphonec.jpg": "/portfolio_web/static/media/iphonec.911729aa18b2cbb923a4.jpg",
-    "static/media/iphone.jpg": "/portfolio_web/static/media/iphone.8029efddd33ff41ddf49.jpg",
+    "static/media/stopwatch.jpg": "/portfolio_web/static/media/stopwatch.848f64bb2cd2195651b9.jpg",
     "index.html": "/portfolio_web/index.html",
-    "main.838667ff.css.map": "/portfolio_web/static/css/main.838667ff.css.map",
-    "main.2101fedf.js.map": "/portfolio_web/static/js/main.2101fedf.js.map"
+    "main.2be6e645.css.map": "/portfolio_web/static/css/main.2be6e645.css.map",
+    "main.a73e2f1f.js.map": "/portfolio_web/static/js/main.a73e2f1f.js.map"
   },
   "entrypoints": [
-    "static/css/main.838667ff.css",
-    "static/js/main.2101fedf.js"
+    "static/css/main.2be6e645.css",
+    "static/js/main.a73e2f1f.js"
   ]
 }
