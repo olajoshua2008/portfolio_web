@@ -35,7 +35,11 @@ header{
 }
 /* image */
 .me{
-    background: linear-gradient(var(--color-primary), transparent);
+    background: url(../../asset/me1.jpg) ;
+    /* background-attachment: fixed; */
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
     width: 12rem;
     height: 30rem;
     position: absolute;
